@@ -72,5 +72,5 @@ I still have much to pratice, to feel more confortable in it. The box model is s
 ## Author
 
 - Ana Neusia
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AnaTech21)
+- Frontend Mentor - [@ananeusia](https://www.frontendmentor.io/profile/ananeusia)
 
